@@ -1,6 +1,6 @@
 # image-concatenate
 
-Python script that merges 2 images using a template
+Python script that merges 2 images inside a template
 
 ## How to use
 
