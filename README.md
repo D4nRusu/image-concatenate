@@ -1,6 +1,6 @@
 # image-concatenate
 
-## how to use
+## How to use
 
 1. Make sure you have Python 3 installed.
 
