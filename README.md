@@ -1,6 +1,18 @@
 # image-concatenate
 
+Python script that merges 2 images using a template
+
 ## How to use
+
+1. Run the program using `python main.py`
+
+2. Select before/after images by pressing their respective buttons
+
+3. Type in a desired name for the output file (no extension, only JPEG implemented)
+
+4. Press generate
+
+## How to install
 
 1. Make sure you have Python 3 installed.
 
@@ -13,6 +25,3 @@
 
 4. Install the requirements:
    pip install -r requirements.txt
-
-5. Run the script:
-   python script.py
