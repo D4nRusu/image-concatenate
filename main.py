@@ -73,6 +73,7 @@ class ImageConcat:
 
             self.btn_before.config(text="Selecteaza INAINTE")
             self.btn_after.config(text="Selecteaza DUPA")
+            self.output_entry.delete(0, tk.END)
         except Exception as e:
             self.status_label.config(text="Error: " + str(e), fg="red")
 
